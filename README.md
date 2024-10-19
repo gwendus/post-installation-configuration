@@ -81,10 +81,31 @@ We can configure the settings under each role for identity access management. Th
 <img src="https://i.imgur.com/JOEiUEX.png" height="70%" width="70%" alt="configuring roles"/>
 <br />
 <br />
+Add users <br/>
+<br />
+<img src="https://i.imgur.com/XmYjXow.png" height="70%" width="70%" alt="Adding users"/>
+<br />
+<br />
+
+Configure users <br/>
+<br />
+<img src="https://i.imgur.com/9pVNEVY.png" height="70%" width="70%" alt="Config users"/>
+<br />
+<br />
 <h2>Applying Service Level Agreements(SLAs) to scenarios</h2>
-<b></b>
+Blurb on importance of SLAs. Expanding on categories. Go back into VM and capture. <br/>
+<br />
+<img src="https://i.imgur.com/4XbMjTQ.png" height="70%" width="70%" alt="SLAs"/>
+<br />
+<br />
 
 <h2>Adding Help Topics for tickets</h2>
+Blurb on importance of Help Topics. Expanding on categories. Go back into VM and capture. <br/>
+<br />
+<img src="https://i.imgur.com/wgTTNed.png" height="70%" width="70%" alt="Help Topics"/>
+<br />
+<br />
+
 </p>
 
 <!--

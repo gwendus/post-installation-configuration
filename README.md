@@ -100,7 +100,9 @@ Blurb on importance of SLAs. Expanding on categories. Go back into VM and captur
 <br />
 
 <h2>Adding Help Topics for tickets</h2>
-Blurb on importance of Help Topics. Expanding on categories. Go back into VM and capture. <br/>
+The end user will select from a drop-down menu of options for support tickets. This can help prioritize issues being reported. By the same token, a user may select a "general" option or choose a help topic that may not be the most accurate, so it is *always* imperative to make contact with the customer and ask additional questions to get a better sense of the situation. Fortunately for us, the topic can be updated by the appropriate support staff if this is the case.
+
+Expanding on categories. Go back into VM and capture. <br/>
 <br />
 <img src="https://i.imgur.com/wgTTNed.png" height="70%" width="70%" alt="Help Topics"/>
 <br />

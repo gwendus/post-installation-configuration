@@ -92,12 +92,12 @@ It's important to note that when we reach out to our customers, we should try to
 <img src="https://i.imgur.com/9pVNEVY.png" height="70%" width="70%" alt="Config users"/>
 <br />
 <br />
-<h2>Applying Service Level Agreements(SLAs) to scenarios</h2>
+<h2>Applying Service Level Agreements (SLAs) to scenarios</h2>
 Another thing of importance is service level agreements (SLAs), which are categorized by severity.
 SLAs are formal contracts between service providers and clients that outline expected service standards. They set a standard for what clients can expect, hold service providers accountable for meeting metrics and performance, and mitigate risks.
 <br />
 
-We will consider Sev-A the highest importance, with the lowest priority given to Sev-C. Sev-A is given this priority because it concerns business-critical outages that must be addressed immediately. Sev-B is intermediate because it concerns a loss or degradation of services but does not impact the organization's ability to function. And lastly, Sev-C regards smaller issues with minimal impact on your business. The specific time frames for each are defined within the SLA.. <br/>
+We will consider Sev-A the highest importance, with the lowest priority given to Sev-C. Sev-A is given this priority because it concerns business-critical outages that must be addressed immediately. Sev-B is intermediate because it concerns a loss or degradation of services but does not impact the organization's ability to function. And lastly, Sev-C regards smaller issues with minimal impact on your business. The specific time frames for each are defined within the SLA. <br/>
 <br />
 <img src="https://i.imgur.com/4XbMjTQ.png" height="70%" width="70%" alt="SLAs"/>
 <br />

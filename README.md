@@ -87,7 +87,7 @@ Here we add users. Karen and Ken will be our customers who submit tickets in thi
 <br />
 <br />
 
-Configure users <br/>
+It's important to note that when we reach out to our customers, we should try to multi-task and add information to their user profile! <br/>
 <br />
 <img src="https://i.imgur.com/9pVNEVY.png" height="70%" width="70%" alt="Config users"/>
 <br />

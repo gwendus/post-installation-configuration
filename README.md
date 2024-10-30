@@ -81,7 +81,7 @@ We can configure the settings under each role for identity access management. Th
 <img src="https://i.imgur.com/JOEiUEX.png" height="70%" width="70%" alt="configuring roles"/>
 <br />
 <br />
-Add users <br/>
+Here we add users. Karen and Ken will be our customers who submit tickets in this lab. <br/>
 <br />
 <img src="https://i.imgur.com/XmYjXow.png" height="70%" width="70%" alt="Adding users"/>
 <br />
